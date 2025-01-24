@@ -188,3 +188,7 @@ This guide provides a complete framework to implement a CI/CD pipeline integrati
 ### Docker Push
 
 ![docker push](/assets/docker-push.png)
+
+### Jenkins
+
+![Jenkins](/assets/jenkins.png)
